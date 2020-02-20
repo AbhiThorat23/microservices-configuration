@@ -1,4 +1,4 @@
 #Tis is the development specific file
 my:
   app:
-    greeting: welcome to dev envirnment
+    desc: I am from dev Configuration file, welcome to dev envirnment
