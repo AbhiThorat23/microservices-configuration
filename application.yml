@@ -1,6 +1,4 @@
-server:
-  port: 8092
-     
+    
 #Below properties are examples to demo @ConnectionProperties in different config class    
 db:
   connection: connection-string-from-config-server-updated
