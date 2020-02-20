@@ -1,0 +1,8 @@
+server:
+  port: 8092
+ 
+#Below properties are examples to demo @ConnectionProperties in different config class    
+db:
+  connection: '{connectionString:''http/demo-connection'', userName:''abhi'', password:''test''}'
+  host: 3000
+  dbname: oracle
