@@ -3,4 +3,4 @@ server:
   
 my:
   app:
-    desc: I am from spring-config-demo microservice specific configuration file i.e. spring-config-demo.yml, My app is demo app.
+    desc: I am from spring-config-demo microservice specific configuration file i.e. spring-config-demo.yml.
