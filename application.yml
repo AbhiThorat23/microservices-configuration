@@ -10,7 +10,7 @@ db:
 #Acessing another property in same yaml file   
 my:
   app:
-    desc: I am from common configuration file, My app is demo app.
+    desc: I am from common configuration file i.e. application.yml, My app is demo app.
     #greeting: Welcome here
     dummynumbers: one,two,three #Mapping list to key 
     users: '{user1:''abhi'', user2:''kiran'', user3:''aman''}'  #Mapping Map to single Key
