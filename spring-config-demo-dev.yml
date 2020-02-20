@@ -1,4 +1,0 @@
-#Tis is the development specific file
-my:
-  app:
-    desc: I am from dev Configuration file, welcome to dev envirnment
