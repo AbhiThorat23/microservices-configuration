@@ -3,7 +3,7 @@ server:
      
 #Below properties are examples to demo @ConnectionProperties in different config class    
 db:
-  connection: connection-string-from-config-server
+  connection: connection-string-from-config-server-updated
   host: 127.0.0.1
   port: 1200
 
