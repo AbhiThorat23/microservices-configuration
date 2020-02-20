@@ -12,3 +12,10 @@ my:
     #greeting: Welcome here
     dummynumbers: one,two,three #Mapping list to key 
     users: '{user1:''abhi'', user2:''kiran'', user3:''aman''}'  #Mapping Map to single Key
+    
+#For actuator endpoints
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
