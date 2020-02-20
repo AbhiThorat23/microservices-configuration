@@ -3,7 +3,7 @@ server:
   
 my:
   app:
-    desc: I am from spring-config-demo microservice specific configuration file i.e. spring-config-demo.yml. chnaged
+    desc: I am from spring-config-demo microservice specific configuration file i.e. spring-config-demo.yml. Chnage one more time. 
   
 #Below properties are examples to demo @ConnectionProperties in different config class    
 db:
