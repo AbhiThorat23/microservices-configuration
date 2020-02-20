@@ -3,14 +3,14 @@ server:
      
 #Below properties are examples to demo @ConnectionProperties in different config class    
 db:
-  connection: connection-string-from-config-server-updated
+  connection: connection-string-from-config-server.
   host: 127.0.0.1
   port: 1200
 
 #Acessing another property in same yaml file   
 my:
   app:
-    desc: I am from common configuration file, My app is demo app
+    desc: I am from common configuration file, My app is demo app.
     #greeting: Welcome here
     dummynumbers: one,two,three #Mapping list to key 
     users: '{user1:''abhi'', user2:''kiran'', user3:''aman''}'  #Mapping Map to single Key
