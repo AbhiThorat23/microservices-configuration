@@ -1,3 +1,12 @@
+server:
+  port: 8092
+     
+#Below properties are examples to demo @ConnectionProperties in different config class    
+db:
+  connection: connection-string-from-config-server
+  host: 127.0.0.1
+  port: 1200
+
 #Acessing another property in same yaml file   
 my:
   app:
